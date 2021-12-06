@@ -1,0 +1,3 @@
+sudo npm i -g markdown-it
+markdown-it new-course.md -o new-course.html
+exit
